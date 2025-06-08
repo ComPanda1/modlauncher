@@ -1,4 +1,4 @@
 version=2.5.4
 version_launcher=3.5.0
-new_launcher=https://mega.nz/file/ZDFF0RYa#dmaivyNOGeKtVe5STmevg4VGZrC3aGpqysM7Rgsb0qk
+new_launcher=https://raw.githubusercontent.com/ComPanda1/asadfgsdfd/main/launcher.zip
 new_mods=https://mega.nz/file/Ee11CKYI#0WMW-NpPtkmQiQE9u4ik2C3C-x8j87kceVAb9QbZsjA
