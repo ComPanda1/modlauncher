@@ -1,4 +1,4 @@
-version=2.5.0
-version_launcher=3.0.0
+version=2.5.4
+version_launcher=3.5.0
 new_launcher=d
 new_mods=https://mega.nz/file/NK0CyB6I#yPOwUKcQyilt1n5ZUQ13YG_IaHQYemE6q0DoVMmSKE0
