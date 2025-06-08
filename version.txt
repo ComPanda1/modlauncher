@@ -1,2 +1,4 @@
-version=2.0.0 
-new_mods=https://mega.nz/file/lPFmBBrb#Mzktnm5nlVkxu1YOX1RDRWuMC4nXXB1VhP6sqcnDeL4
+version=2.0.0
+version_launcher=1.0.0
+new_launcher=https://raw.githubusercontent.com/ComPanda1/launcher/main/launcher.exe
+new_mods=https://mega.nz/file/NOUQCKaC#m8qh31fJHo6MS9YBjxxXYb0v_2PAol52Tvi768U-bjA
