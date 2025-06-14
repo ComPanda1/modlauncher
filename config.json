@@ -1,8 +1,22 @@
 {
   "mods": [
     {
-      "name": "StackRefill",
+      "name": "Stack Refill",
       "url": "https://cdn.modrinth.com/data/mQWkB9ON/versions/7u0qP3e1/stackrefill-1.21.1-4.7.jar"
+    },
+    {
+      "name": "Iris Shader",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oXIoDcGE/iris-neoforge-1.8.8%2Bmc1.21.1.jar"
+    },
+    {
+      "name": "Sodium",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+    },
+  ],
+  "shaders": [
+    {
+      "name": "FullBright2",
+      "url": "https://cdn.modrinth.com/data/rinvvngy/versions/lXdIc4Ip/FullBright2%20v4.0.zip"
     }
   ]
 }
