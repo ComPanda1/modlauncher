@@ -1,4 +1,4 @@
 version=4.2.0
 version_launcher=4.5.6
 new_launcher=https://raw.githubusercontent.com/ComPanda1/asadfgsdfd/main/launcher.zip
-new_mods=https://www.dropbox.com/scl/fi/ibateyjscvn7ku6u9z63s/jar.zip?rlkey=3suyse2tzbd8y8asgkzh6hjqo&st=qciqf6d1&dl=1
+new_mods=https://www.dropbox.com/scl/fi/ibateyjscvn7ku6u9z63s/jar.zip?rlkey=3suyse2tzbd8y8asgkzh6hjqo&st=5slru8q3&dl=1
